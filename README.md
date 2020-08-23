@@ -3,7 +3,7 @@
 ## I'm an Entrepreneur, Developer and aspiring Data Scientist
 - 🔭 I’m currently working on Influencer Marketing Dashboards and ML Algorithms, partner Data Science Consulting with [T25][t25] and full stack developer consultant for [CarbonZero][carbonzero].
 - 🌱 I’m currently learning [Machine Learning][machine-learning], [TypeScript][typescript], [NestJS][nestjs].
-- 👯 I’m looking to collaborate on educational, environmental and social projects.
+- :raising_hand: I’m looking to collaborate on educational, environmental and social projects.
 - 🤔 I’m looking for help with [StaminaCake][staminacake].
 - :goal_net: 2020 Goals: Get out of this year unscrached!
 - 💬 Ask me about anything!
