@@ -1,7 +1,7 @@
 ### Hi there, I'm André! 👋
 
 ## I'm an Entrepreneur, Developer and aspiring Data Scientist
-- 🔭 I’m currently working on Influencer Marketing Dashboards and ML Algorithms as Software Engineer for [BR Media Group][brmedia], partner Data Science Consulting with [T25][t25] and full stack developer consultant for [CarbonZero][carbonzero].
+- 🔭 I’m currently working on Influencer Marketing Dashboards and ML Algorithms as Software Engineer for [BR Media Group][brmedia], partner Data Science Consultant with [T25][t25] and full stack developer consultant for as freelancer.
 - 🌱 I’m currently learning [Machine Learning][machine-learning], [TypeScript][typescript], [NestJS][nestjs].
 - :raising_hand: I’m looking to collaborate on educational, environmental and social projects.
 - 🤔 I’m looking for help with [StaminaCake][staminacake].
