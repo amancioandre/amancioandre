@@ -1,7 +1,7 @@
 ### Hi there, I'm André! 👋
 
 ## I'm an Entrepreneur, Developer and aspiring Data Scientist
-- 🔭 I’m currently working on Influencer Marketing Dashboards and ML Algorithms as Software Engineer for [BR Media Group][brmedia], partner Data Science Consultant with [T25][t25] and full stack developer consultant for as freelancer.
+- 🔭 I’m currently working as Software Engineer for [PWR Lab][pwrlab] and partner Engineer and Data Science Consultant with [T25][t25].
 - 🌱 I’m currently learning [Machine Learning][machine-learning], [TypeScript][typescript], [NestJS][nestjs].
 - :raising_hand: I’m looking to collaborate on educational, environmental and social projects.
 - 🤔 I’m looking for help with [StaminaCake][staminacake].
@@ -50,7 +50,7 @@
 
 ![Andre's github stats](https://github-readme-stats.vercel.app/api?username=amancioandre&count_private=true&show_icons=true&theme=dracula)
 
-[brmedia]: https://brmediagroup.com.br/
+[pwrlab]: https://www.pwrlab.com/
 [t25]: https://www.t25.com.br
 [machine-learning]: https://en.wikipedia.org/wiki/Machine_learning
 [typescript]: https://www.typescriptlang.org/
