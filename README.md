@@ -1,11 +1,11 @@
 ### Hi there, I'm André! 👋
 
 ## I'm an Entrepreneur, Developer and aspiring Data Scientist
-- 🔭 I’m currently working as Software Engineer for [PWR Lab][pwrlab] and partner Engineer and Data Science Consultant with [T25][t25].
+- 🔭 I’m currently working as Software Engineer for [PWR Lab][pwrlab].
 - 🌱 I’m currently learning [Machine Learning][machine-learning], [TypeScript][typescript], [NestJS][nestjs].
 - :raising_hand: I’m looking to collaborate on educational, environmental and social projects.
 - 🤔 I’m looking for help with [StaminaCake][staminacake].
-- :goal_net: 2021 Goals: Still on the brewing!
+- :goal_net: 2021 Goals: Move to Canada 🇨🇦!
 - 💬 Ask me about anything!
 - ⚡ Fun fact: I draw fun stuff that fit very well on merchandise for developers :eyes:
 
