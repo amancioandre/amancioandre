@@ -1,60 +1,58 @@
-### Hi there, I'm André! 👋
+# Hi there, I'm André! 👋
 
-## I'm an Entrepreneur, Developer and aspiring Data Scientist
-- 🔭 I’m currently working as Software Engineer for [PWR Lab][pwrlab].
-- 🌱 I’m currently learning [Machine Learning][machine-learning], [TypeScript][typescript], [NestJS][nestjs].
-- :raising_hand: I’m looking to collaborate on educational, environmental and social projects.
-- 🤔 I’m looking for help with [StaminaCake][staminacake].
-- :goal_net: 2021 Goals: Move to Canada 🇨🇦!
-- 💬 Ask me about anything!
-- ⚡ Fun fact: I draw fun stuff that fit very well on merchandise for developers :eyes:
+### Software Engineer · Entrepreneur · Outdoorsman at Heart  
+#### Engineer of systems. Guardian of teams. From thought to deed. Draws oddities. Seeks change with meaning.
 
-### Connect with me:
-[<img align="left" alt="amancioandre | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][staminacake]
-[<img align="left" alt="amancioandre | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="amancioandre | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
-<br />
+## 💼 What I'm Up To
+- 🔭 Currently building scalable infrastructure and developer tools at **[Workday](https://www.workday.com/)** on the Localization Platform.
+- 🌱 Learning more about **Machine Learning**, **GIS for Conservation & Foraging**, and **Agent-Based Modeling**.
+- ⚙️ Crafting tools at the intersection of **Python**, **PostGIS**, and **AWS-native Infrastructure**.
+- ✍️ Writing and illustrating a personal wilderness memoir and launching a photo print store focused on the Pacific Northwest.
+- 🤝 Looking to collaborate on projects involving **education**, **wilderness tech**, **data visualization**, and **ethical AI**.
 
-### Language and Tools
+---
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Ipython" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="NestJS" width="26px" src="https://github.com/github/explore/blob/master/topics/nestjs/nestjs.png?raw=true" />
-<img align="left" alt="Nuxt" width="26px" src="https://github.com/github/explore/blob/master/topics/nuxt/nuxt.png?raw=true" />
-<!-- <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" /> -->
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+## 🛠 Languages & Tools
 
-<br />
-<br />
-<br />
+<p float="left">
+  <img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
+  <img alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
+  <img alt="NestJS" width="26px" src="https://github.com/github/explore/blob/main/topics/nestjs/nestjs.png?raw=true" />
+  <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />
+  <img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
+  <img alt="Vue.js" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" />
+  <img alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" />
+  <img alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png" />
+  <img alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png" />
+  <img alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" />
+  <img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
+  <img alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />
+</p>
 
-### My Stats
+---
 
-![Andre's github stats](https://github-readme-stats.vercel.app/api?username=amancioandre&count_private=true&show_icons=true&theme=dracula)
+## 🧭 Projects & Initiatives
 
-[pwrlab]: https://www.pwrlab.com/
-[t25]: https://www.t25.com.br
-[machine-learning]: https://en.wikipedia.org/wiki/Machine_learning
-[typescript]: https://www.typescriptlang.org/
-[nestjs]: https://nestjs.com/
-[staminacake]: https://medium.com/staminacake
-[linkedin]: https://www.linkedin.com/in/amancioandre/
-[instagram]: https://www.instagram.com/andre_amoraes/
+- 🥾 **[Gamescout]** – Data tools for foragers and hunters, built with terrain intelligence and remote sensing.
+- ✍️ **Men of the West: Hunters** – A hybrid memoir on manhood, wilderness, and legacy in the Pacific Northwest.
+
+---
+
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amancioandre/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/andre_amoraes/)
+
+---
+
+## 📊 GitHub Stats
+
+![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=amancioandre&count_private=true&show_icons=true&theme=dracula)
+
+---
+
+> _"Build boldly. Sketch weirdly. Hike far. Always think before you do."_  
+> — André Amâncio de Moraes
+
