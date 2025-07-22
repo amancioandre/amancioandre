@@ -47,12 +47,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=amancioandre&count_private=true&show_icons=true&theme=dracula)
-
----
-
 > _"Build boldly. Sketch weirdly. Hike far. Always think before you do."_  
 > — André Amâncio de Moraes
 
